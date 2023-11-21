@@ -1,0 +1,23 @@
+body{
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+form{
+    display: flex;
+    flex-direction: column;
+    width: 30%;
+}
+
+label{
+    margin-top: 20px;
+}
+
+#boton{
+    margin-top: 20px;
+}
+
+img{
+    margin: 20px;
+    width: 200px;
+    height: 200px;
+}
